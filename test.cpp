@@ -1,7 +1,6 @@
 #include <iostream>
 #include <random>
 #include <fstream>
-#include <array>
 #include <vector>
 #include <cstdlib>
 #include <ctime>
