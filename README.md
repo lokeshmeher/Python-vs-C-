@@ -1,6 +1,7 @@
 # Python-vs-CPP
 
-Run time performance testing of floating point division of 1 million values.
+A very basic run time performance testing of C++ vs Python codes.
+Carries out 1 million floating point divisions.
 
 On an Intel 4670K quad-core:  
 Python took 2.38377952988 secs. (for both compilation, i.e., into byte code by the interpreter and then execution)  
